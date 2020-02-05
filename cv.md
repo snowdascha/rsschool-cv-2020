@@ -19,7 +19,7 @@ will be added...
 will be added...
 ## Education
 * HTML & CSS - [htmlacademy](https://htmlacademy.ru/)
-* Git - [learn.javascript.ru](/https://learn.javascript.ru/screencast/git)
+* Git - [learn.javascript.ru/screencast/git](/https://learn.javascript.ru/screencast/git)
 * JavaScript - [learn.javascript.ru](https://learn.javascript.ru/)  
 
 ## English
